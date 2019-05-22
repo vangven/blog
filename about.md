@@ -21,7 +21,7 @@ image: /img/lianhua.jpg
 This Page Contains Some Declarations.
 {:.lead}
 
-![Screenshot](/img/linahua.jpg){:.lead}
+![Screenshot](/img/lianhua.jpg){:.lead}
 This Page Contains Some Declarations.
 {:.figure}
 
