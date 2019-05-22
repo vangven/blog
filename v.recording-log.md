@@ -14,17 +14,17 @@
 ## 域名
 * 域名为`wangwen0914.com`在`godaddy`
 * 由`DNSPOD`解析到`github`
-* 在github的blog1仓库建立CNMAE文件指向  
+* 在github的blog仓库建立CNMAE文件指向  
 
 ## 站点来源
-* 站点存储在`github\blog1`仓库
+* 站点存储在`github\blog`仓库
 * 站点采用`Jelyll`
 * 站点采用[`Hydejack V8.4.0`](http://jekyllthemes.org/themes/hydejack/)主题
 
 ## 记录
 ### 先导部分
-* 从Hydejack页面`fork`到`blog1`仓库使用
-* 在本地`git clone`到`/资料库/科技相关/github/blog1/blog1/`进行修改部署
+* 从Hydejack页面`fork`到`blog`仓库使用
+* 在本地`git clone`到`/资料库/科技相关/github/blog/`进行修改部署
 * 修改完成后`git add .` `git commit -m "modify"` `git pull` `git push`进行部署
 
 ### 对`/_fonfig.yml`的修改： 
