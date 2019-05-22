@@ -43,8 +43,6 @@ logo:                  /assets/icons/icon.png
 author:
   name:                vang ven
   email:               1781134136@qq.com
-  about: |
-    Hi, I'm vangven
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
