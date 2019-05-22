@@ -37,11 +37,12 @@ hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程�
 ### 第一步-注册github账号
 注册很简单，如果不会可以自行百度。[github官网][github]
 ### 第二步-安装hydejack并配置
-&#160; &#160; &#160; &#160;对于安装方式，官方建议了很多种方式，包括`via the Starter Kit`\`Ruby gem`\`Via zip`\`Via git`等。  
-~~~
-# 这是官方文档建议安装方式原文：
-There are multiple ways of installing Hydejack. The easiest and cleanest way is via the Starter Kit. Alternatively, you can use the Ruby gem. If you don’t mind a cluttered source directory, you can use the zip file. Finally, If you know what you are doing, you can fork the git repository.
-~~~
+&#160; &#160; &#160; &#160;对于安装方式，官方建议了很多种方式，包括`via the Starter Kit` `Ruby gem` `Via zip` `Via git`等。  
+
+&#160; &#160; &#160; &#160;我用的是懒人方法，直接fork配置。
+- 在github上建立自己的仓库
+&#160; &#160; &#160; &#160;登陆github后在右上角点击`加号`选择`New repositort`。
+![build](httPs://wangwen0914.com/img/build.jpg)
 
 
 Writing....
