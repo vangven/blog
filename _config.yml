@@ -43,6 +43,8 @@ logo:                  /assets/icons/icon.png
 author:
   name:                vang ven
   email:               1781134136@qq.com
+  about: |
+    Hi, I'm vangven
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -76,7 +78,7 @@ copyright:             © 2019. All rights reserved. Open `_config.yml` to edit 
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
+paginate:              10
 paginate_path:         /page-:num/
 
 
