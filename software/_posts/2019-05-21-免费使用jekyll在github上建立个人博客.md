@@ -11,7 +11,7 @@ description: >
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-##DEMO
+## DEMO
 demo就是本站了:[https://wangwen0914.com](https://wangwen0914.com)
 ## 为什么选择github
 &#160; &#160; &#160; &#160;作为小白，选择github的原因很简单。总结就是没钱、没技术、易上手、资源多、易学习、能装X。
@@ -24,4 +24,4 @@ demo就是本站了:[https://wangwen0914.com](https://wangwen0914.com)
 
 
 
-Writing...
+Writing....
