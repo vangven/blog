@@ -30,19 +30,35 @@ demo就是本站了。
 hydejack的链接：[hydejack的github仓库][hydejack]  
 hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程文档][readme]  
 
-	[github]: https://github.com/
-	[hydejack]: https://github.com/qwtel/hydejack-starter-kit
-	[readme]: https://hydejack.com/docs/
-
 ### 第一步-注册github账号
 注册很简单，如果不会可以自行百度。[github官网][github]
 ### 第二步-安装hydejack并配置
 &#160; &#160; &#160; &#160;对于安装方式，官方建议了很多种方式，包括`via the Starter Kit` `Ruby gem` `Via zip` `Via git`等。  
 
 &#160; &#160; &#160; &#160;我用的是懒人方法，直接fork配置。
-- 在github上建立自己的仓库
-&#160; &#160; &#160; &#160;登陆github后在右上角点击`加号`选择`New repositort`。
-![build](httPs://wangwen0914.com/img/buildblog/build.jpg)
+- fork hydejack的仓库  
+&#160; &#160; &#160; &#160;登陆github后，打开hydejack的仓库[链接][hydejack]，点击右上角的`Fork`按钮。
+![fork](https://wangwen0914.com/img/buildblog/fork.jpg)  
+&#160; &#160; &#160; &#160;等待fork完成。  
+![forking](http://wangwen0914.com/img/buildblog/forking.jpg)  
+- 修改仓库设置  
+&#160; &#160; &#160; &#160;Fork完成后，hydejack就已经在你自己的github仓库里了。  
+&#160; &#160; &#160; &#160;点击edit按钮修改仓库描述，可改可不改。  
+&#160; &#160; &#160; &#160;点击`Settings`  
+![settings](http://wangwen0914.com/img/buildblog/setting.jpg)  
+&#160; &#160; &#160; &#160;在`Repository name`中填写你需要的名称重命名仓库，点击`Rename`确认，我填写的是`blog`。  
+![rename](http://wangwen0914.com/img/buildblog/rename.jpg) 
+
+
+
+
+
+
 
 
 Writing....
+
+
+	[github]: https://github.com/
+	[hydejack]: https://github.com/qwtel/hydejack-starter-kit
+	[readme]: https://hydejack.com/docs/
