@@ -53,7 +53,8 @@ hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程�
 &#160; &#160; &#160; &#160;之后页面会自动刷新，生成博客的二级域名，生成的域名仍然在Source上方绿色方条位置显示。  
 显示为“ Your site is published at https://你的github用户名.github.com/你的仓库名/”。  
 这就是目前你的博客域名了，点击即可访问，我的显示是本站域名wangwen0914.com，随后会说到如何配置自定义域名。  
-
+- 配置hydejack  
+&#160; &#160; &#160; &#160;
 
 
 
@@ -66,6 +67,6 @@ hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程�
 Writing....
 
 
-	[github]: https://github.com/
-	[hydejack]: https://github.com/qwtel/hydejack-starter-kit
-	[readme]: https://hydejack.com/docs/
+[github]: https://github.com/
+[hydejack]: https://github.com/qwtel/hydejack-starter-kit
+[readme]: https://hydejack.com/docs/
