@@ -1,5 +1,5 @@
 ---
-title: 【免费】使用jekyll在github上建立个人博客
+title: 免费使用jekyll在github上建立个人博客
 image: /img/buildblog.jpg
 description: >
     本文以本站点为例，说明如何使用hydejack@jekyll主题在github上建立个人博客。
