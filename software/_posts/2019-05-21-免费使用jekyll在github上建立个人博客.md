@@ -25,15 +25,16 @@ demo就是本站了。
 - 选择hydejack主题是因为漂亮、大方、官方文档明了、配置简单，首页导航页非常符合我的个人需求本站采用的就是hydejack主题免费版。
 ## 开始安装配置
 ### 需要用到的资源
-- github账号
+- github账号  
 github账号注册很简单，如果不会可以自行百度。[github官网][github]
-- hydejack主题
-hydejack的链接：[hydejack的github仓库][hydejack]
-hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程文档][readme]
+- hydejack主题  
+hydejack的链接：[hydejack的github仓库][hydejack]  
+hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程文档][readme]  
 
 	[github]: https://github.com/
 	[hydejack]: https://github.com/qwtel/hydejack-starter-kit
 	[readme]: https://hydejack.com/docs/
+
 
 
 
