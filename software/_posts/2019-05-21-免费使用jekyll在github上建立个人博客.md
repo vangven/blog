@@ -5,6 +5,8 @@ description: >
     本文以本站点为例，说明如何使用hydejack@jekyll主题在github上建立个人博客。
 ---
 
+**Notes：**
+本文以本站点为例，说明如何使用hydejack@jekyll主题在github上建立个人博客。
 
 ## 懒人目录
 {:.no_toc}
