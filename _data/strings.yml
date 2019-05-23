@@ -14,7 +14,7 @@ home:                  Home
 pages:                 Pages
 posts:                 Posts
 about:                 About
-related_posts:         Related Posts
+related_posts:         其他文章
 other_projects:        Other Projects
 comments:              Comments
 jump_to:               Jump to
@@ -22,8 +22,8 @@ navigation:            Navigation
 social:                Social
 links:                 Links
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
+newer:                 更新的文章
+older:                 较早的文章
 back:                  Back
 permalink:             Permalink
 permalink_icon:        icon-link

@@ -77,6 +77,15 @@ social:
 	 download:         v.recording-log/		# 链接到./v.recording-log.md
 ~~~
 
+### 对于`./_data/strings.yml`的修改：  
+~~~yml
+# file:./_data/strings.yml
+related_posts:         其他文章			# 在每个文章页下显示其他文章
+older:                 较早的文章		# 在文章列表最后显示
+newer:                 更新的文章		# 在文章列表最后显示
+
+~~~
+
 ### 文件目录修改
 
 #### 对站点目录的修改
