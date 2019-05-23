@@ -37,5 +37,4 @@ This Page Contains Some Declarations.
 * 这个站点没有恶意的主动的侵权意图和行为。
 * 这个站点的拥有者对转载的一些软件和信息不负责任。
 * 这个站点如果存在侵犯您权利的信息，深表歉意，并恭请您联系1781134136@qq.com删除纠正。
----
 * 最后感谢Github、Jekyll、Hydejack。
