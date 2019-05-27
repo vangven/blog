@@ -119,7 +119,7 @@ continue_reading:      >
   
   
 ### 一些常用的
-#### 本地git
+#### git
 ~~~bash
 $ git clone
 $ git add .
@@ -127,7 +127,7 @@ $ git commit -m "修改描述"
 $ git pull
 $ git push
 ~~~
-
+#### [Github personal access tokens](https://github.com/settings/tokens)
 
 #### 页面编辑
 * 生成页面内目录链接
