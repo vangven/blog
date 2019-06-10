@@ -26,7 +26,7 @@ This Page Records Some Common Links.
 [1]: https://www.jianguoyun.com/p/DRTnczYQiKj-BRi38BY 
 [2]: https://www.jianguoyun.com/p/DQSrxh8QiKj-BRiJwBs
 [3]: https://www.jianguoyun.com/p/DXFgNXAQiKj-BRjrtxs
-[4]: https://www.jianguoyun.com/p/DXFgNXAQiKj-BRjrtxs
+[4]: https://www.jianguoyun.com/p/DakunhsQiKj-BRiLwBs
 [5]: https://www.jianguoyun.com/p/Dc0yTFUQiKj-BRiRnyU
 [6]: https://www.jianguoyun.com/p/DRdCzbEQiKj-BRiNwBs
 
