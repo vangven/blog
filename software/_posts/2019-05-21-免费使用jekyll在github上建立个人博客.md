@@ -38,25 +38,25 @@ hydejack的官方教程文档（虽然是英文，但浅显易懂）：[教程�
 &#160; &#160; &#160; &#160;我用的是懒人方法，直接fork配置。
 #### fork hydejack的仓库  
 &#160; &#160; &#160; &#160;登陆github后，打开hydejack的仓库[链接][hydejack]，点击右上角的`Fork`按钮。  
-![fork](https://wangwen0914.com/img/buildblog/fork.jpg)  
+![fork](/blog/img/buildblog/fork.jpg)  
 &#160; &#160; &#160; &#160;等待fork完成。  
-![forking](http://wangwen0914.com/img/buildblog/forking.jpg)  
+![forking](/blog/img/buildblog/forking.jpg)  
 #### 修改仓库设置  
 &#160; &#160; &#160; &#160;Fork完成后，hydejack就已经在你自己的github仓库里了。  
 &#160; &#160; &#160; &#160;点击edit按钮修改仓库描述，可改可不改。  
 &#160; &#160; &#160; &#160;点击`Settings`  
-![settings](http://wangwen0914.com/img/buildblog/setting.jpg)  
+![settings](/blog/img/buildblog/setting.jpg)  
 &#160; &#160; &#160; &#160;在`Repository name`中填写你需要的名称重命名仓库，点击`Rename`确认，我填写的是`blog`。  
-![rename](http://wangwen0914.com/img/buildblog/rename.jpg)   
+![rename](/blog/img/buildblog/rename.jpg)   
 &#160; &#160; &#160; &#160;继续在Settings页面往下拉，找到GitHub Pages，在Source中下拉选择master branch    
-![page](http://wangwen0914.com/img/buildblog/page.jpg)   
+![page](/blog/img/buildblog/page.jpg)   
 &#160; &#160; &#160; &#160;之后页面会自动刷新，生成博客的二级域名，生成的域名仍然在Source上方绿色方条位置显示。  
 显示为“ Your site is published at https://你的github用户名.github.com/你的仓库名/”。  
 这就是目前你的博客域名了，点击即可访问，我的显示是本站域名wangwen0914.com，随后会说到如何配置自定义域名。  
 到这里，安装就算基本完成了。  
 ### 第三步-配置hydejack  
 &#160; &#160; &#160; &#160;可以直接在`code`界面在线修改文件进行配置，也可以通过git本地修改再部署，这里先说在线修改。  
-![code](https://wangwen0914.com/img/buildblog/code.jpg)  
+![code](/blog/img/buildblog/code.jpg)  
 #### 对`config.yml`的修改：  
 ~~~yml
 # file: _config.yml
